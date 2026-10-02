@@ -1,0 +1,704 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.b1 {
+    width: 20px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #d1c4e9;
+}
+
+.b2{
+    width: 40px;
+    height: 40px;
+    border: 5px solid black;
+    background-color:#b39ddb ;
+}
+
+.b3{
+    width: 60px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #9575cd;
+}
+
+.b4{
+    width: 80px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #7e57c2;
+}
+
+.b5{
+    width: 100px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #673ab7;
+}
+
+.b6{
+    width: 120px;
+    height: 40px;
+    border: 5px solid black;
+    background-color:#5e35b1;
+}
+
+.b7{
+    width: 140px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #512da8;
+}
+
+.b8{
+    width: 160px;
+    height: 40px;
+    border: 5px solid black;
+    background-color:#4527a0;
+}
+
+.b9{
+    width: 180px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #311b92;
+}
+
+.b10{
+    width: 200px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #b388ff;
+}
+
+.b11{
+    width: 220px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #7c4dff;
+}
+
+.b12{
+    width: 240px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #651fff;
+}
+
+.b13{
+    width: 260px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #6200ea;
+}
+
+.b14{
+    width: 280px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #3f51b5;
+}
+
+.b15{
+    width: 300px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #3949ab;
+}
+
+.b16{
+    width:320px ;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #303f9f;
+}
+
+.b17{
+     width: 340px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #283593;
+}
+
+.b18{
+     width: 360px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #1a237e;
+}
+
+.b19{
+     width: 380px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #8c9eff;
+}
+
+.b20{
+     width: 400px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #536dfe;
+}
+
+.b21{
+     width: 420px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #3d5afe;
+}
+
+.b22{
+     width: 440px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #304ffe;
+}
+
+.b23{
+     width: 460px;
+    height: 40px;
+    border: 5px solid black;
+    background-color:#2196f3;
+}
+
+.b24{
+     width: 480px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #1e88e5;
+}
+
+.b25{
+     width: 500px;
+    height: 40px;
+    border: 5px solid black;
+    background-color:#1976d2;
+}
+
+.b26{
+     width: 520px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #1565c0;
+}
+
+.b27{
+     width: 540px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #0d47a1;
+}
+
+.b28{
+     width: 560px;
+    height: 40px;
+    border: 5px solid black;
+    background-color:#82b1ff;
+}
+
+.b29{
+     width: 580px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #448aff;
+}
+
+.b30{
+     width: 600px;
+    height: 40px;
+    border: 5px solid black;
+    background-color:#2979ff;
+}
+
+.b31{
+     width: 620px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #2962ff;
+}
+
+.b32{
+     width: 640px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #03a9f4;
+}
+
+.b33{
+     width: 660px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #039be5;
+}
+
+.b34{
+     width: 680px;
+    height: 40px;
+    border: 5px solid black;
+    background-color:#0288d1;
+}
+
+.b35{
+     width: 700px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #0277bd;
+}
+
+.b36{
+     width: 720px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #01579b;
+}
+
+.b37{
+     width: 740px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #80d8ff;
+}
+
+.b38{
+     width: 760px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #40c4ff;
+}
+
+.b39{
+     width: 780px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #00b0ff;
+}
+
+.b40{
+     width: 800px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #0091ea;
+}
+
+.b41{
+     width: 820px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #00bcd4;
+}
+
+.b42{
+     width: 840px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #00acc1;
+}
+
+.b43{
+     width: 860px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #0097a7;
+}
+
+.b44{
+     width: 880px;
+    height: 40px;
+    border: 5px solid black;
+    background-color:#00838f;
+}
+
+.b45{
+     width: 900px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #006064;
+}
+
+.b46{
+     width: 920px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #84ffff;
+}
+
+.b47{
+     width: 940px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #00e5ff;
+}
+
+.b48{
+     width: 960px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #00b8d4;
+}
+
+.b49{
+     width: 980px;
+    height: 40px;
+    border: 5px solid black;
+    background-color:#009688;
+}
+
+.b50{
+     width: 1000px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #00897b;
+}
+
+.b51{
+     width: 1020px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #00796b;
+}
+
+.b52{
+     width: 1040px;
+    height: 40px;
+    border: 5px solid black;
+    background-color:#00695c;
+}
+
+.b53{
+     width: 1060px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #004d40;
+}
+
+.b54{
+     width: 1080px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #a7ffeb;
+}
+
+.b55{
+     width: 1100px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #64ffda;
+}
+
+.b56{
+     width: 1120px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #1de9b6;
+}
+
+.b57{
+     width: 1140px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #00bfa5;
+}
+
+.b58{
+     width: 1160px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #4caf50;
+}
+
+.b59{
+     width: 1180px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #43a047;
+}
+
+.b60{
+     width: 1200px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #388e3c;
+}
+
+.b61{
+     width: 1220px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #2e7d32;
+}
+
+.b62{
+     width: 1240px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #1b5e20;
+}
+
+.b63{
+     width: 1260px;
+    height: 40px;
+    border: 5px solid black;
+    background-color:#b9f6ca;
+}
+
+.b64{
+     width: 1280px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #69f0ae;
+}
+
+.b65{
+       width: 1300px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #00e676;
+}
+
+.b66{
+       width: 1320px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #00c853;
+}
+
+.b67{
+     width: 1340px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #8bc34a;
+}
+
+.b68{
+     width: 1360px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #7cb342;
+}
+
+.b69{
+       width: 1380px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #689f38;
+}
+
+.b70{
+       width: 1400px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #558b2f;
+}
+
+.b71{
+       width: 1420px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #33691e;
+}
+
+.b72{
+       width: 1460px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #ccff90;
+}
+
+.b73{
+       width: 1480px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #b2ff59;
+}
+
+.b74{
+       width: 1500px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #76ff03;
+}
+
+.b75{
+       width: 1520px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #64dd17;
+}
+
+.b76{
+       width: 1540px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #cddc39;
+}
+
+.b77{
+       width: 1560px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #c0ca33;
+}
+
+.b78{
+       width: 1580px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #afb42b;
+}
+
+.b79{
+       width: 1600px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #9e9f24;
+}
+
+.b80{
+       width: 1620px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #827717;
+}
+
+.b81{
+       width: 1640px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #f4ff81;
+}
+
+.b82{
+       width: 1660px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #eeff41;
+}
+
+.b83{
+       width: 1680px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #c6ff00;
+}
+
+.b84{
+       width: 1700px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #aeea00;
+}
+
+.b85{
+       width: 1720px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #ffeb3b;
+}
+
+.b86{
+       width: 1740px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #fdd835;
+}
+
+.b87{
+       width: 1760px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #fbc02d;
+}
+
+.b88{
+       width: 1780px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #f9a825;
+}
+
+.b89{
+       width: 1800px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #f57f17;
+}
+
+.b90{
+       width: 1820px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #ffff8d;
+}
+
+.b91{
+       width: 1840px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #ffff00;
+}
+
+.b92{
+       width: 1860px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #ffea00;
+}
+
+.b93{
+       width: 1880px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #ffd600;
+}
+
+.b94{
+       width: 1900px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #ffc107;
+}
+
+.b95{
+       width: 1920px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #ffb300;
+}
+
+.b96{
+       width: 1940px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #ffa000;
+}
+
+.b97{
+       width: 1960px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #ff8f00;
+}
+
+.b98{
+       width: 1980px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #ff6f00;
+}
+
+.b99{
+       width: 2000px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #f4511e;
+}
+
+.b100{
+       width: 2020px;
+    height: 40px;
+    border: 5px solid black;
+    background-color: #e64a19;
+}
